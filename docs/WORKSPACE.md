@@ -18,4 +18,4 @@ FDPClient uses gradle, so make sure that it is installed properly. Instructions 
 5. Select the Forge run configuration.
 
 ### Troubleshooting Workspace Errors
-If you get a "Cannot find Forge Bin" error, download Forge 1.8.9 Universal from [here](https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar) and place it in `./FDPClient-main/.gradle/minecraft`
+In the case you get "Cannot find Forge Bin" error, download Forge 1.8.9 Universal from [here](https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar) and place it in `./FDPClient-main/.gradle/minecraft`
